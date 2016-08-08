@@ -26,6 +26,12 @@ activate :autoprefixer
 # with_layout :admin do
 #   page "/admin/*"
 # end
+#
+
+["jimmy", "seb", "romain"].each do |name|
+  proxy "/flats/#{name}.html", "/flats/show.html", :locals => { :owner => name }, :ignore => true
+end
+
 
 # Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
 # proxy "/this-page-has-no-template.html", "/template-file.html", :locals => {

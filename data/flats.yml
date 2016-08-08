@@ -1,0 +1,48 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: images/card-paris.jpg
+  owner_picture: images/seb.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+  flat_description: This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+  accommodates: 2
+  bathrooms: 1
+  bed_type: Real Bed
+  bedrooms: 1
+  beds: 1
+  property_type: Apartment
+  room_type: Entire home/apt
+romain:
+  owner_name: Romain Paillard
+  picture: images/card-london.jpg
+  owner_picture: images/romain.jpg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+  flat_description: Huge mansion in the heart of Mayfair
+  accommodates: 25
+  bathrooms: 17
+  bed_type: Real Bed
+  bedrooms: 15
+  beds: 15
+  property_type: Mansion
+  room_type: Entire home/apt
+jimmy:
+  owner_name: Jimmy Littmann
+  picture: images/card-clapham.jpg
+  owner_picture: images/jimmy.jpg
+  name: Jimmy's home
+  summary: Nice flat in Clapham
+  city: London, UK
+  wifi: false
+  flat_description: This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+  accommodates: 8
+  bathrooms: 2
+  bed_type: Real Bed
+  bedrooms: 2
+  beds: 4
+  property_type: Apartment
+  room_type: Entire home/apt
